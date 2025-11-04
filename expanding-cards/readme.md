@@ -49,4 +49,5 @@ expanding-cards/
   - Clicked card expands to `flex: 5`
   - The heading fades in with a delay for a smooth effect
 
-```js
+
+
